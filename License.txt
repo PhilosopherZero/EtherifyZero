@@ -1,0 +1,45 @@
+© 2025 PhilosopherZero. All rights reserved.
+This software is licensed under a custom proprietary license.
+See below for full terms.
+
+
+📄 License Agreement — NetworkOptimizer
+
+1. Acceptance of Terms
+By installing or using NetworkOptimizer (“the Software”), you agree to be bound by this License Agreement. If you do not agree, do not install or use the Software.
+
+2. License Grant
+You are granted a non-exclusive, non-transferable license to install and use the Software for personal or internal business purposes only.
+
+3. Modifications to Terms
+The developer reserves the right to update or modify this License Agreement at any time. Continued use of the Software after such changes constitutes acceptance of the revised terms.
+
+4. Ownership and Intellectual Property
+All rights, title, and interest in and to the Software, including all code, design, and documentation, remain the property of the developer.
+You may not copy, reproduce, redistribute, or resell the Software in whole or in part without prior written permission.
+
+5. Restrictions on Use
+You may not:
+
+Reverse engineer, decompile, or disassemble any part of the Software.
+
+Modify, alter, or create derivative works based on the Software.
+
+Sell, license, or distribute the Software as your own.
+
+Remove or obscure any proprietary notices or branding.
+
+6. User Responsibilities
+You agree to use the Software lawfully and not in a way that could harm, disrupt, or impair other users, networks, or systems.
+
+7. Privacy
+Any data collected through the Software is handled in accordance with the accompanying Privacy Policy (if applicable).
+
+8. Termination
+Violation of these terms may result in immediate termination of your license and access to the Software without notice.
+
+9. Limitation of Liability
+The Software is provided “AS IS,” without warranties of any kind. The developer shall not be liable for any direct, indirect, incidental, or consequential damages arising from use or inability to use the Software.
+
+10. Governing Law
+This agreement shall be governed by and construed in accordance with the laws of the developer’s jurisdiction.
