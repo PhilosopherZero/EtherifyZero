@@ -4,4 +4,4 @@ smart netwrok optimizer with many utlities and designed to benchmark and priorit
 ## License
 This software is proprietary and not open-source.  
 Redistribution, modification, or resale is prohibited without explicit permission.  
-See [LICENSE.txt](./LICENSE.txt) for details.
+See [License.txt](./License.txt) for details.
