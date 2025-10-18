@@ -1,5 +1,5 @@
 # NetworkOptimizer (ALPHA)
-smart netwrok optimizer (Windows latency tool) with many utlities and designed to benchmark and prioritize latency and stability reducing ping, optimizes ethernet and wifi aware both udp and tcp
+A smart Windows network optimization tool focused on reducing ping, improving latency stability, and enhancing both Wi-Fi and Ethernet performance. Includes intelligent benchmarking, auto-tuning, and advanced utilities for optimizing UDP and TCP communication.
 
 ## License
 This software is proprietary and not open-source.  
