@@ -31,3 +31,7 @@ See [License.txt](./License.txt) for details.
 #### 🧩 System Integration
 - 💻 **OS Detection** – Supports Windows 10 and Windows 11 *(optimize-aware)*  
 - 🛜 **Network Detection** – Supports Wi-Fi & Ethernet *(optimize-aware)*  
+
+## 💬 Join the Community
+Join our Discord to share feedback, report bugs, or discuss network optimization ideas!  
+👉 [Join NetworkOptimizer Discord](https://discord.gg/CxKqr6sexW)
