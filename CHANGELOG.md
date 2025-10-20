@@ -4,7 +4,7 @@
 
 ### 🧩 Fixes & Improvements
 - 🧰 **Fixed perfect MTU setter** not working for Ethernet (was assuming Wi-Fi only)  
-- ⚙️ **Fixed startup issue** — app now launches more reliably on boot *(tentative fix)*  
+- ⚙️ **Failed to Fix startup issue** — app now launches more reliably on boot *(tentative fix)*  
 - 🚀 **Fixed launcher integration** — “Launch Software” now correctly opens the main app  
 - 🌐 **Added & fixed congestion controller reset** when restoring default network settings  
 
