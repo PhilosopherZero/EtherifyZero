@@ -1,5 +1,14 @@
 # 🧾 Changelog
 
+## [0.1.1] - 2025-10-20
+
+### 🧩 Fixes & Improvements
+- 🧰 **Fixed perfect MTU setter** not working for Ethernet (was assuming Wi-Fi only)  
+- ⚙️ **Fixed startup issue** — app now launches more reliably on boot *(tentative fix)*  
+- 🚀 **Fixed launcher integration** — “Launch Software” now correctly opens the main app  
+- 🌐 **Added & fixed congestion controller reset** when restoring default network settings  
+
+
 ## [0.1.0] - 2025-10-17
 
 ### 🚀 Features
