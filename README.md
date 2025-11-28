@@ -12,8 +12,8 @@ See [License.txt](./License.txt) for details.
 #### ⚙️ Core Optimizations
 - 🧠 **Auto Optimize** – One-click intelligent optimization  
 - ⚡ **Latency Benchmark** – Measure real-world ping and jitter  
-- 🌐 **MTU Optimization** – Prevents fragmentation and packet loss  
-- 🧩 **DNS Optimization** – Selects lowest latency + highest stability resolvers  
+- 🌐 **AUTO MTU Detection Optimization** – Prevents fragmentation and packet loss  
+- 🧩 **AUTO DNS Optimization** – Selects lowest latency + highest stability resolvers  
 - 🔧 **TCP Optimization** – Tunes congestion and performance settings  
 - 🛡 **Latency Shield Lite** – Reduces instability under fluctuating network load  
 
