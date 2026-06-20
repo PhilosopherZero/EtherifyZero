@@ -1,4 +1,4 @@
-# NetworkOptimizer (ALPHA)
+# EtherifyZero NetworkOptimizer (BETA)
 Smart Windows 10/11 latency optimizer that benchmarks, auto-tunes, and stabilizes your network for gaming and real-time performance. Improves ping, jitter, and throughput across Wi-Fi and Ethernet using intelligent UDP/TCP optimization.
 
 
