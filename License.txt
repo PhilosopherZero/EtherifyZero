@@ -1,12 +1,12 @@
-© 2025 PhilosopherZero. All rights reserved.
+© 2026 PhilosopherZero. All rights reserved.
 This software is licensed under a custom proprietary license.
 See below for full terms.
 
 
-📄 License Agreement — NetworkOptimizer
+📄 License Agreement — Etherify Zero NetworkOptimizer
 
 1. Acceptance of Terms
-By installing or using NetworkOptimizer (“the Software”), you agree to be bound by this License Agreement. If you do not agree, do not install or use the Software.
+By installing or using Etherify Zero NetworkOptimizer (“the Software”), you agree to be bound by this License Agreement. If you do not agree, do not install or use the Software.
 
 2. License Grant
 You are granted a non-exclusive, non-transferable license to install and use the Software for personal or internal business purposes only.
