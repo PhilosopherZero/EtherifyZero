@@ -1,5 +1,5 @@
 # EtherifyZero NetworkOptimizer (BETA)
-Smart Windows 10/11 latency optimizer that benchmarks, auto-tunes, and stabilizes your network for gaming and real-time performance. Improves ping, jitter, and throughput across Wi-Fi and Ethernet using intelligent UDP/TCP optimization.
+Smart Windows 10/11 latency desktop optimizer that benchmarks, auto-tunes, and stabilizes your network for gaming and real-time performance. Improves ping, jitter, and throughput across Wi-Fi and Ethernet using intelligent UDP/TCP optimization.
 
 
 ## License
@@ -8,12 +8,14 @@ Redistribution, modification, or resale is prohibited without explicit permissio
 See [License.txt](./License.txt) for details.
 
 ## 🚀 Features
+full desktop gui
+<img width="1018" height="597" alt="after optimizer+dns" src="https://github.com/user-attachments/assets/3b34c1bb-02c3-4e72-b8f0-a0244131e23c" />
 
 #### ⚙️ Core Optimizations
 - 🧠 **Auto Optimize** – One-click intelligent optimization  
 - ⚡ **Latency Benchmark** – Measure real-world ping and jitter  
-- 🌐 **AUTO MTU Detection Optimization** – Prevents fragmentation and packet loss  
-- 🧩 **AUTO DNS Optimization** – Selects lowest latency + highest stability resolvers  
+- 🌐 **AUTO MTU Detection Optimization** – Prevents fragmentation and packet loss in ~16s avg 
+- 🧩 **AUTO DNS Optimization** – Selects lowest latency + highest stability resolvers ~6mins avg
 - 🔧 **TCP Optimization** – Tunes congestion and performance settings  
 - 🛡 **Latency Shield Lite** – Reduces instability under fluctuating network load  
 
@@ -26,7 +28,7 @@ See [License.txt](./License.txt) for details.
 - 📏 **Set Custom MTU** – Define manual MTU values  
 - 🎯 **Set MTU 1280** – Quick preset for minimal fragmentation  
 - 🧭 **Show MTU Value** – Displays current adapter MTU  
-- 🌍 **Show TCP Settings** – Displays both Global and Supplemental TCP settings  
+- 🌍 **Show TCP Settings** – Displays both Global and Supplemental TCP settings (removed in latest release will be added back)
 
 #### 🧩 System Integration
 - 💻 **OS Detection** – Supports Windows 10 and Windows 11 *(optimize-aware)*  
